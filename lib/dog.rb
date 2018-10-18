@@ -20,4 +20,5 @@ class Dog
 
 end
 
-fido.bark = "Woof!"
+fido.name = "Fido"
+fido.bark
