@@ -15,7 +15,7 @@ class Dog
   end
   def bark
     @bark
-  end  
+  end
 end
 fido = Dog.new
 fido.bark = "Woof!"
